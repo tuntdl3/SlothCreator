@@ -1,0 +1,168 @@
+{
+  "" : {
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothCreator-master.dia",
+    "emit-module-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothCreator-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothCreator-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothCreator-master.swiftdeps"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Care/Activity.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Activity.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Activity.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Activity.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Activity.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Activity.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Activity.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Activity.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Activity~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Care/CareSchedule.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/CareSchedule.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/CareSchedule.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/CareSchedule.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/CareSchedule.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/CareSchedule.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/CareSchedule.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/CareSchedule.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/CareSchedule~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Care/FoodGenerator.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/FoodGenerator.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/FoodGenerator.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/FoodGenerator.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/FoodGenerator.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/FoodGenerator.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/FoodGenerator.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/FoodGenerator.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/FoodGenerator~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Creation/NameGenerator.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/NameGenerator.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/NameGenerator.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/NameGenerator.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/NameGenerator.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/NameGenerator.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/NameGenerator.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/NameGenerator.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/NameGenerator~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Creation/SlothGenerator.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothGenerator.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothGenerator.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothGenerator.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothGenerator.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothGenerator.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothGenerator.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothGenerator.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothGenerator~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Models/Color.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Color.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Color.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Color.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Color.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Color.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Color.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Color.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Color~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Models/Food.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Food.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Food.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Food.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Food.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Food.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Food.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Food.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Food~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Models/Habitat.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Habitat.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Habitat.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Habitat.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Habitat.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Habitat.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Habitat.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Habitat.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Habitat~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Models/Power.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Power.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Power.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Power.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Power.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Power.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Power.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Power.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Power~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Models/Sloth.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Sloth.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Sloth.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Sloth.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Sloth.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Sloth.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Sloth.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Sloth.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Sloth~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Viewing/HabitatView.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/HabitatView.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/HabitatView.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/HabitatView.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/HabitatView.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/HabitatView.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/HabitatView.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/HabitatView.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/HabitatView~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Viewing/Image+initWithSloth.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Image+initWithSloth.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Image+initWithSloth.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Image+initWithSloth.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Image+initWithSloth.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Image+initWithSloth.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Image+initWithSloth.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Image+initWithSloth.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/Image+initWithSloth~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Viewing/PowerPicker.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/PowerPicker.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/PowerPicker.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/PowerPicker.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/PowerPicker.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/PowerPicker.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/PowerPicker.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/PowerPicker.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/PowerPicker~partial.swiftmodule"
+  },
+  "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/Sources/SlothCreator/Viewing/SlothView.swift" : {
+    "const-values" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothView.swiftconstvalues",
+    "dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothView.d",
+    "diagnostics" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothView.dia",
+    "index-unit-output-path" : "/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothView.o",
+    "llvm-bc" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothView.bc",
+    "object" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothView.o",
+    "swift-dependencies" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothView.swiftdeps",
+    "swiftmodule" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/SlothCreator.build/Debug/SlothCreator.build/Objects-normal/arm64/SlothView~partial.swiftmodule"
+  }
+}

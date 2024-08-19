@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "PACKAGE-PRODUCT:SlothCreator"
+    }
+  ],
+  "containerPath" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "docbuild",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Products",
+      "derivedDataPath" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build",
+      "indexDataStoreFolderPath" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/mac/Downloads/SlothCreatorBuildingDocCDocumentationInXcode/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "docbuild",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "126",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
